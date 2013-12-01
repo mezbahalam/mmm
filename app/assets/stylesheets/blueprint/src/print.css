@@ -83,10 +83,11 @@ a:link:after, a:visited:after {
   content: " (" attr(href) ")";
   font-size: 90%;
 }
- */
+*/
 /* If you're having trouble printing relative links, uncomment and customize this:
    (note: This is valid CSS3, but it still won't go through the W3C CSS Validator) */
-
-/* a[href^="/"]:after {
+/*
+a[href^="/"]:after {
   content: " (http://www.yourdomain.com" attr(href) ") ";
-} */
+} 
+*/
